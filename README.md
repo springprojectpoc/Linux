@@ -21,6 +21,10 @@
 13) cat > file.txt redirect content to file
 14) touch file1.txt : create file file1.txt
 15) ls : (Full form is long list. List of content )
+16) ls -l : List with details
+17) ls -a : list all directories including hiden
+18) ls -lt : Print the order in which it created
+19) ls -ltr : Print the in reverse order which it created
 
 
 
