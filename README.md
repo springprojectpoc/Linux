@@ -1,5 +1,8 @@
 # Linux
 
+Lodekloud commands 
+https://github.com/kodekloudhub/linux-basics-course?tab=readme-ov-file
+
 1) /home/santosh  ->>>> User santosh home directory whih provides privacy
 2) Which directory contains the user home directories by default?
 --> /home
